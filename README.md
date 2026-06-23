@@ -6,8 +6,7 @@ A configurable, concurrent Python scraper that extracts paginated listing cards 
 
 ## Demo
 
-![Demo GIF](assets/demo.gif)
-*(Replace this placeholder with a screen recording of the scraper running.)*
+![estate-scraper running: scraping 1000 listings across 50 pages with graceful pagination end-detection](assets/demo.png)
 
 ---
 
